@@ -1,3 +1,4 @@
+# Return the first value that appears twice while scanning from left to right.
 def first_repeated(nums):
   seen = set()
 
